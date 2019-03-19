@@ -1,4 +1,4 @@
-Christopher Perryman - cp877@bath.ac.uk
+Polynomial Eval
 
 THREE TOP LEVEL FUNCTIONS:
 
